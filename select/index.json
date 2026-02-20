@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "また君に会える日",
+  "base_artist": "宮脇詩音",
+  "createdAt": "2026-02-20T06:57:03.861888Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "また君に会える日",
+      "artist": "Shion Miyawaki",
+      "has_synced": true,
+      "path": "select/01_また君に会える日_Shion_Miyawaki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mata Kimi ni Aeru Hi (また君に会える日)",
+      "artist": "Shion Miyawaki",
+      "has_synced": true,
+      "path": "select/02_Mata_Kimi_ni_Aeru_Hi_(また君に会える日)_Shion_Miyawaki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "また君に会える日 - mata kimini aeruhi",
+      "artist": "Shion MIyawaki",
+      "has_synced": true,
+      "path": "select/03_また君に会える日_-_mata_kimini_aeruhi_Shion_MIyawaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "また君に会える日",
+      "artist": "宮脇詩音",
+      "has_synced": true,
+      "path": "select/04_また君に会える日_宮脇詩音.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mata Kimi ni Aeru Hi [また君に会える日]",
+      "artist": "Shion Miyawaki [宮脇詩音]",
+      "has_synced": true,
+      "path": "select/05_Mata_Kimi_ni_Aeru_Hi_[また君に会える日]_Shion_Miyawaki_[宮脇詩音].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "また君に会える日",
+      "artist": "宮脇 詩音",
+      "has_synced": false,
+      "path": "select/pl_01_また君に会える日_宮脇_詩音.txt"
+    }
+  ]
+}
